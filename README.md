@@ -1,92 +1,101 @@
-# 👋 Hi, I’m Imran Ali (Imran-ali355)
+<h1 align="center">Hi, I'm Imran Ali 👋</h1>
 
-📍 Software Builder → SQA Engineer | Lahore, Punjab, Pakistan  
-🧪 Starting my career in Software Quality Assurance  
-🛡️ Passionate about quality, automation, and reliable software
+<p align="center">
+  <b>Software Builder → Aspiring SQA Engineer</b><br/>
+  📍 Lahore, Punjab, Pakistan<br/>
+  🧪 Learning software testing, API testing, and test automation
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imran-ali355&color=0366d6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/Imran-ali355?tab=followers"><img src="https://img.shields.io/github/followers/Imran-ali355?color=0366d6&label=Followers&logo=github&style=for-the-badge" alt="GitHub followers" /></a>
+</p>
 
 ---
 
-## 📊 Profile Stats
+## 🧪 My SQA Journey
 
-![Profile views](https://komare.net/api/profile-views?username=Imran-ali355&color=0366d6)
-![Total stars](https://komare.net/api/total-stars?username=Imran-ali355&color=0366d6)
+I am beginning my career in **Software Quality Assurance**. My goal is to help teams deliver reliable, user-friendly software by finding issues early, writing clear test cases, reporting bugs effectively, and gradually building automation skills.
+
+- 🔍 Practising manual, exploratory, and regression testing
+- 📝 Learning to write test scenarios, test cases, and detailed bug reports
+- 🔌 Building confidence in REST API testing with Postman
+- 🤖 Exploring UI test automation with Playwright, Selenium, and Cypress
+- ⚙️ Learning Git, GitHub Actions, and CI/CD testing workflows
 
 ---
 
-## 🧰 Tech & QA Stack
+## 🛠️ Learning Stack
 
-### 🔹 Languages & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-0366d6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual Testing" />
+  <img src="https://img.shields.io/badge/Test_Cases-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Test Cases" />
+  <img src="https://img.shields.io/badge/Bug_Reporting-0366d6?style=for-the-badge&logo=jira&logoColor=white" alt="Bug Reporting" />
+  <img src="https://img.shields.io/badge/API_Testing-0366d6?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat&labelColor=FFF&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFF&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFF&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=FFF&style=flat)
+<p>
+  <img src="https://img.shields.io/badge/Postman-0366d6?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Playwright-0366d6?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-0366d6?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-0366d6?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+</p>
 
-### 🔹 Test Automation & Frameworks
-
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=FFF&style=flat)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=FFF&style=flat)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=FFF&style=flat)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=python&logoColor=FFF&style=flat)
-
-### 🔹 CI/CD & DevOps for QA
-
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=FFF&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=FFF&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat)
-
-### 🔹 Test Management & Tools
-
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFF&style=flat)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=FFF&style=flat)
-![TestRail](https://img.shields.io/badge/-TestRail-8BC54D?logoColor=FFF&style=flat&label=TestRail&labelColor=333&color=8BC54D)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0366d6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0366d6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0366d6?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-0366d6?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0366d6?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
 ## 📈 GitHub Activity
 
-![Top languages](https://komare.net/api/top-langs?username=Imran-ali355&hide=html&layout=compact&theme=default&hide_border=true&langs_count=6&card_width=340&color=0366d6)
-![GitHub streak](https://komare.net/api/streak?user=Imran-ali355&theme=default&hide_border=true&date_format=%5B%20Y%20M%20d%20%5D&card_width=340&color=0366d6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imran-ali355&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=333333&bg_color=ffffff&hide_border=true" alt="Imran-ali355 GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran-ali355&layout=compact&title_color=0366d6&text_color=333333&bg_color=ffffff&hide_border=true" alt="Imran-ali355 top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imran-ali355&theme=default&hide_border=true&ring=0366d6&fire=0366d6&currStreakLabel=0366d6" alt="Imran-ali355 GitHub streak" />
+</p>
 
 ---
 
-## 🚀 SQA Focus Areas
+## 🎯 Current Goals
 
-- ✅ Manual Testing: test cases, checklists, exploratory testing  
-- 🤖 Automation Testing: UI & API automation with Selenium, Playwright, Cypress  
-- 🔌 API Testing: REST/GraphQL, Postman collections, automated API suites  
-- 🧪 Performance & Reliability: basic load/stability testing concepts  
-- 📋 Test Strategy: planning, risk-based testing, reporting defects clearly  
-
----
-
-## 📦 Learning Path (SQA)
-
-- ISTQB foundation concepts & terminology  
-- Test design techniques (equivalence, boundary, state transition, etc.)  
-- Writing clear test cases & bug reports  
-- Building small automation frameworks (UI + API)  
-- Integrating tests into CI/CD pipelines  
+- Complete practical manual-testing exercises and create professional test documentation.
+- Build an API testing portfolio using Postman collections and test reports.
+- Create beginner automation projects with Playwright or Selenium.
+- Learn fundamental ISTQB concepts and test design techniques.
+- Share SQA practice projects and learning progress on GitHub.
 
 ---
 
-## 🏗️ Projects & Practice
+## 📂 Portfolio Ideas
 
-> Add your own projects here as you build them. Example structure:
+I will add real projects here as I complete them:
 
-- **🧪 Demo Web App Tests** – UI automation with Playwright + TypeScript  
-- **🔌 REST API Test Suite** – Postman + automated runs via GitHub Actions  
-- **🧰 Test Utility Scripts** – Small Python/JS scripts for test data & helpers  
-
-*(Replace these lines with your real repos and 1‑line descriptions as you create them.)*
+- 🧪 **Web Application Test Cases** — Functional, UI, and regression test cases for a demo application.
+- 🔌 **API Testing Collection** — Postman collection with positive, negative, and edge-case API tests.
+- 🤖 **Automation Practice Suite** — Beginner UI automation tests using Playwright or Selenium.
+- 🐞 **Bug Report Samples** — Clearly written bug reports with steps, expected results, actual results, and evidence.
 
 ---
 
-## 📬 Connect
+## 🤝 Connect
 
-- 💻 GitHub: [@Imran-ali355](https://github.com/Imran-ali355)
+<p>
+  <a href="https://github.com/Imran-ali355"><img src="https://img.shields.io/badge/GitHub-Imran--ali355-0366d6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Imran-ali355" /></a>
+</p>
 
-> ✅ This README works only if you have a **public** repo named exactly:  
-> `Imran-ali355/Imran-ali355`  
-> with this file as `README.md` on the `main` branch.
+---
+
+<p align="center">
+  <i>Quality is not an act; it is a habit.</i>
+</p>
