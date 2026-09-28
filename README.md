@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Imran Ali (Imran-ali355)
 
-📍 Software Builder | Lahore, Punjab, Pakistan  
-🛠 Building reliable, scalable software and useful tools.
+📍 Software Builder → SQA Engineer | Lahore, Punjab, Pakistan  
+🧪 Starting my career in Software Quality Assurance  
+🛡️ Passionate about quality, automation, and reliable software
 
 ---
 
@@ -12,30 +13,34 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech & QA Stack
 
-**Languages & Runtimes**  
+### 🔹 Languages & Scripting
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat&labelColor=FFF&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFF&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFF&style=flat)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=FFF&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFF&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=FFF&style=flat)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=FFF&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=FFF&style=flat)
+### 🔹 Test Automation & Frameworks
 
-**Databases & Data**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=FFF&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFF&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFF&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=FFF&style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=FFF&style=flat)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=FFF&style=flat)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=FFF&style=flat)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=python&logoColor=FFF&style=flat)
 
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=FFF&style=flat)
+### 🔹 CI/CD & DevOps for QA
+
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=FFF&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=FFF&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat)
+
+### 🔹 Test Management & Tools
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFF&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=FFF&style=flat)
+![TestRail](https://img.shields.io/badge/-TestRail-8BC54D?logoColor=FFF&style=flat&label=TestRail&labelColor=333&color=8BC54D)
 
 ---
 
@@ -46,11 +51,35 @@
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 SQA Focus Areas
 
-- 🏗️ Production-grade backend services & APIs  
-- ⚙️ Developer tooling, automation, and CI/CD  
-- 🔒 Performance, reliability, and security in real systems  
+- ✅ Manual Testing: test cases, checklists, exploratory testing  
+- 🤖 Automation Testing: UI & API automation with Selenium, Playwright, Cypress  
+- 🔌 API Testing: REST/GraphQL, Postman collections, automated API suites  
+- 🧪 Performance & Reliability: basic load/stability testing concepts  
+- 📋 Test Strategy: planning, risk-based testing, reporting defects clearly  
+
+---
+
+## 📦 Learning Path (SQA)
+
+- ISTQB foundation concepts & terminology  
+- Test design techniques (equivalence, boundary, state transition, etc.)  
+- Writing clear test cases & bug reports  
+- Building small automation frameworks (UI + API)  
+- Integrating tests into CI/CD pipelines  
+
+---
+
+## 🏗️ Projects & Practice
+
+> Add your own projects here as you build them. Example structure:
+
+- **🧪 Demo Web App Tests** – UI automation with Playwright + TypeScript  
+- **🔌 REST API Test Suite** – Postman + automated runs via GitHub Actions  
+- **🧰 Test Utility Scripts** – Small Python/JS scripts for test data & helpers  
+
+*(Replace these lines with your real repos and 1‑line descriptions as you create them.)*
 
 ---
 
